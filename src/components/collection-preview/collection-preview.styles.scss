@@ -1,0 +1,14 @@
+.shop-title{
+  margin: 10px 0px;
+  line-height: 1;
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+.collections-list{
+  display: flex;
+  width: 100%;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
